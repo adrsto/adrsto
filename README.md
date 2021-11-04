@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔤 My name is Adrian
+- 📁 I'm working on some small personal projects
+- 🧑‍💻 Currently learning SwiftUI
+
 <!--
 **adrsto/adrsto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
